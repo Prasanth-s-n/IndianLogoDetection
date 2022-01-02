@@ -2,8 +2,8 @@
 #### This repo contains YOLOv5 model weight trained on Indian logos and also contains the code for GUI which has been made using Tkinter python library
 
 ##### How To Use?
-##### **Step 1:** Load the weights using the *MODEL* button in our GUI
-##### **Step 2:** Load the image for detection using the *BROWSE* button and set the confidence threshold using the *Slider*
+##### **Step 1:** Load the weights using the **MODEL** button in our GUI
+##### **Step 2:** Load the image for detection using the **BROWSE** button and set the confidence threshold using the *Slider*
 ##### **Step 3:** Use the **DETECT** button to make detection
 ##### **Step 4:(Optional)** Use the **SAVE** button to save prediction if needed
 
