@@ -9,3 +9,4 @@
 
 ##### Use the **EXIT** button to properly end the application
 
+##### NOTE: Our model is trained only for 100 epochs with pretrained weights
